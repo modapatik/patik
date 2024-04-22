@@ -1,0 +1,30 @@
+[
+  {
+    "image": "https://github.com/modapatik/patik/blob/main/fiveslider/1.png",
+    "name": "Slider 1",
+    "guide": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero eget metus sollicitudin, nec facilisis turpis congue."
+  },
+  {
+    "image": "https://github.com/modapatik/patik/blob/main/fiveslider/2.png",
+    "name": "Slider 2",
+    "guide": "Sed euismod orci id libero euismod, vel cursus dolor finibus. Integer sed leo magna. Proin id justo sit amet nulla consequat vehicula nec nec purus."
+  },
+  {
+    "image": "https://github.com/modapatik/patik/blob/main/fiveslider/3.png",
+    "name": "Slider 2",
+    "guide": "Sed euismod orci id libero euismod, vel cursus dolor finibus. Integer sed leo magna. Proin id justo sit amet nulla consequat vehicula nec nec purus."
+  }
+],
+  {
+    "image": "https://github.com/modapatik/patik/blob/main/fiveslider/4.png",
+    "name": "Slider 2",
+    "guide": "Sed euismod orci id libero euismod, vel cursus dolor finibus. Integer sed leo magna. Proin id justo sit amet nulla consequat vehicula nec nec purus."
+  }
+],
+  {
+    "image": "https://github.com/modapatik/patik/blob/main/fiveslider/5.png",
+    "name": "Slider 2",
+    "guide": "Sed euismod orci id libero euismod, vel cursus dolor finibus. Integer sed leo magna. Proin id justo sit amet nulla consequat vehicula nec nec purus."
+  }
+]
+]
